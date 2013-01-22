@@ -17,3 +17,6 @@ _ReSharper.*
 *.dbmdl
 error-*.xml
 Drops
+_UpgradeReport_Files/
+Solutions/UpgradeLog.htm
+Solutions/UpgradeLog.XML
